@@ -1,29 +1,24 @@
 { 
     
    "questions":[ {
-      "questionUrl": "https://i.ibb.co/KDf7VXb/1stQ.jpg",
+      "questionUrl": "https://i.ibb.co/sy6wtTS/1.jpg",
         "correctAnswer": "setCounter",
         "xp": 150
       
      
       },
       {
-      "questionUrl": "https://i.ibb.co/P4jJKZC/2ndQ.jpg",
+      "questionUrl": "https://i.ibb.co/1LJfLkZ/2.jpg",
         "correctAnswer": "} </ProfileContext.Consumer>",
         "xp": 250
     },
     {
-        "questionUrl": "https://i.ibb.co/LZssprB/3rdQ.jpg",
+        "questionUrl": "https://i.ibb.co/4Vys4xp/3.jpg",
         "correctAnswer": "{username}</h1>",
         "xp": 250
     },
     {
-        "questionUr;": "https://i.ibb.co/pz2MYby/4thQ.jpg",
-        "correctAnswer": "name={card.name} age={card.age} ",
-        "xp": 150
-    },
-    {
-        "questionUrl": "https://i.ibb.co/qMLnP2g/5thQ.jpg",
+        "questionUrl": "https://i.ibb.co/ydvYZYp/5.jpg",
         "correctAnswer": "url={avatar} size={size} >",
         "xp": 250
       
